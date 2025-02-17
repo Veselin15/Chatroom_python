@@ -6,7 +6,7 @@ import select
 HEADER_LENGTH = 10
 
 # defining the IP address and Port Number.
-IP = "127.0.0.1"
+IP = "0.0.0.0"
 PORT = 1234
 
 """
